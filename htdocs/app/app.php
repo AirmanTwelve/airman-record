@@ -1,5 +1,5 @@
 <?php
-    include "conf.inc.php";
-    include "connect.inc.php";
-    include "functions.inc.php";
+    include "/includes/conf.inc.php";
+    include "/includes/connect.inc.php";
+    include "/includes/functions.inc.php";
 ?>
